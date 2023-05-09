@@ -1,3 +1,4 @@
+// HashSet
 // const containsDuplicate = function (nums) {
 //   const set1 = new Set(nums)
 //   return set1.size === nums.length ? false: true
